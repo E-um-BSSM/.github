@@ -1,24 +1,17 @@
 # 🎓 이음
-
-> 슬로건: “**작은 만남이 큰 경험으로.**”
-> 
+## “**작은 만남이 큰 경험으로.**"
 
 ---
-
 ## 🔗 바로가기
 
 - 🌐 웹사이트:
-- 🔑 GitHub:
+- 🔑 GitHub : https://github.com/E-um-BSSM
 
 ---
 
 ## 📖 프로젝트 소개
 
-- **이음**은 부산소프트웨어마이스터고등학교 학생들을 위한
-- 멘토링·커뮤니티 플랫폼입니다.
-- 1학년 학생들이 전공 공부를 시작하고 선배들의 경험을 공유받을 수 있음
-- 2~3학년 학생들이 후배들과 지식을 나누며 멘토링 경험을 쌓을 수 있음
-- 과제, 리뷰, 커뮤니티 기능을 통해 안전하게 소통 가능
+- **이음**은 부산소프트웨어마이스터고등학교 학생들을 위한 멘토링·커뮤니티 플랫폼입니다.
 
 ---
 
@@ -33,11 +26,9 @@
 
 ## 👥 팀원 소개
 
-| 이름 | 역할 | GitHub |
-| --- | --- | --- |
-| 권길현 | FE, UI/UX | [@Hyun731](https://github.com/Hyun731) |
-| 김태훈 | FE, UI/UX | [@ketarubot](https://github.com/ketarubot) |
-| 신은총 | BE, DevOps | @Kr-Verified |
-| 이주환 | BE, DevOps | @jhlarry1109 |
+| [권길현](https://github.com/Hyun731) | [김태훈](https://github.com/ketarubot) | [신은총](https://github.com/Kr-Verified) | [이주환](https://github.com/jhlarry1109) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/185927046?v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/82302028?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/131538446?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/202415890?s=96&v=4" width="120"/> |
+| FE, UI/UX | FE, UI/UX | BE, DevOps | BE |
 
 ---
