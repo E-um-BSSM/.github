@@ -25,10 +25,10 @@
 
 ## 👥 팀원 소개
 
-| [권길현](https://github.com/Hyun731) | [김태훈](https://github.com/ketarubot) | [신은총](https://github.com/Kr-Verified) | [이주환](https://github.com/jhlarry1109) |
-|:---:|:---:|:---:|:---:|
-| <img src="https://avatars.githubusercontent.com/u/185927046?v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/82302028?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/131538446?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/202415890?s=96&v=4" width="120"/> |
-| FE, UI/UX | FE, UI/UX | BE, DevOps | BE |
+| [권길현](https://github.com/Hyun731) | [김태훈](https://github.com/ketarubot) | [신은총](https://github.com/Kr-Verified) | [이주환](https://github.com/jhlarry1109) | [윤미수](https://github.com/yoonmisu) | [진수화](https://github.com/shusbox) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/185927046?v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/82302028?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/131538446?s=130&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/202415890?s=96&v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/193773307?v=4" width="120"/> | <img src="https://avatars.githubusercontent.com/u/162344136?v=4" width="120"/> |
+| FE | FE | BE, DevOps | BE | UI/UX | UI/UX |
 
 ---
 
